@@ -1,0 +1,47 @@
+#mainTable {
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  #table{
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  #table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    color: white;
+  }
+  
+
+  #table tr {
+    border: 2px solid #ccc;
+    padding: 10px;
+    cursor: pointer;
+  }
+
+
+  #table tr>th {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+
+#InputSection{
+    margin: auto;
+    text-align: center;
+    padding: 100px;
+}
+
+#monthandyeartitle{
+    margin: auto;
+    text-align: center;
+}
+
+#mytitle{
+    color: white;
+    padding: 10px;
+    margin-top: 15px;
+}
